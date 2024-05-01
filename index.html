@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -7,20 +7,34 @@
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<div class="container">
+<header>
     <h1>Rock Paper Scissors Lizard Spock</h1>
-    <div class="score">Score: <span id="score">0</span></div>
-    <div class="tries">Tries left: <span id="tries">3</span></div>
-    <div class="choices">
-        <button onclick="play('rock')">Rock</button>
-        <button onclick="play('paper')">Paper</button>
-        <button onclick="play('scissors')">Scissors</button>
-        <button onclick="play('lizard')">Lizard</button>
-        <button onclick="play('spock')">Spock</button>
-    </div>
-    <div class="result" id="result"></div>
-    <button onclick="resetGame()">Reset Game</button>
-</div>
+</header>
+
+<main>
+    <section class="intro">
+        <p>Welcome to the Rock Paper Scissors Lizard Spock game! Lets see if you can outsmart this javascript program, and best the computer. This is a game developed using javascript, it is based off of the classic rock, paper, scissors game.</p>
+    </section>
+
+    <section class="game">
+        <div class="score">Score: <span id="score">0</span></div>
+        <div class="tries">Tries left: <span id="tries">3</span></div>
+        <div class="choices">
+            <button onclick="play('rock')">Rock</button>
+            <button onclick="play('paper')">Paper</button>
+            <button onclick="play('scissors')">Scissors</button>
+            <button onclick="play('lizard')">Lizard</button>
+            <button onclick="play('spock')">Spock</button>
+        </div>
+        <div class="result" id="result"></div>
+        <button onclick="resetGame()">Reset Game</button>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; Niall Games. All rights reserved.</p>
+</footer>
+
 <script src="script.js"></script>
 </body>
 </html>
