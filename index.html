@@ -1,1 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rock Paper Scissors Lizard Spock</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+    <h1>Rock Paper Scissors Lizard Spock</h1>
+    <div class="score">Score: <span id="score">0</span></div>
+    <div class="tries">Tries left: <span id="tries">3</span></div>
+    <div class="choices">
+        <button onclick="play('rock')">Rock</button>
+        <button onclick="play('paper')">Paper</button>
+        <button onclick="play('scissors')">Scissors</button>
+        <button onclick="play('lizard')">Lizard</button>
+        <button onclick="play('spock')">Spock</button>
+    </div>
+    <div class="result" id="result"></div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
+css
+Copy code
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
 
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.choices button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.score, .tries {
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.result {
+    margin-top: 30px;
+    font-size: 24px;
+}
