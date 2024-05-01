@@ -61,3 +61,11 @@ function displayResult(player, computer, result) {
     }
     document.getElementById('result').innerText = message;
 }
+
+function resetGame() {
+    score = 0;
+    tries = 3;
+    document.getElementById('score').innerText = score;
+    document.getElementById('tries').innerText = tries;
+    document.getElementById('result').innerText = "";
+}
