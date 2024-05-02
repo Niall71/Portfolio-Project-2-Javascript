@@ -14,4 +14,4 @@ The site can be reached here: <a href="https://niall71.github.io/Portfolio-Proje
 ### The Game
 <img width="816" alt="Screenshot 2024-05-02 at 14 30 45" src="https://github.com/Niall71/Portfolio-Project-2-Javascript/assets/152639680/791b0a26-c4d7-4f3b-aaf9-19cfde8bc6a2">
 
-This sites primary feature is this JavaScript based game. Simply put you play agaisnt the computer in a five options version of rock, paper, scissors.
+This site's primary feature is this JavaScript based game. Simply put you play agaisnt the computer in a five options version of rock, paper, scissors.
