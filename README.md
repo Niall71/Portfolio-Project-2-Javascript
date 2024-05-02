@@ -31,4 +31,8 @@ To add some color and visual interest to the site I included an image of people 
 
 ### clickable external link
 
-In the contact me section I added a way to get in touch with me, both through email and through an external link. This clicable link will take users to facebook, the link is stylised to be the facebook logo. I added alt text to this link so users reading screen readers will know what is being displayed. 
+In the contact me section I added a way to get in touch with me, both through email and through an external link. This clicable link will take users to facebook, the link is stylised to be the facebook logo. I added alt text to this link so users reading screen readers will know what is being displayed. I was able to add this stylised icon through the fontawesome library.
+
+<img width="397" alt="Screenshot 2024-05-02 at 14 49 41" src="https://github.com/Niall71/Portfolio-Project-2-Javascript/assets/152639680/83cf2372-9ecc-4ae6-aa51-01b57d5b6546">
+
+
