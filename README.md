@@ -58,6 +58,13 @@ I succesfully validated this site through the W3C HTML Validation Service, the W
 <img width="1076" alt="Screenshot 2024-05-02 at 13 33 33" src="https://github.com/Niall71/Portfolio-Project-2-Javascript/assets/152639680/24dc15b9-df25-4e1f-bd2e-4add6d2251fa">
 
 
+## Site Development
 
+This site was developed primarily by going back through the lessons, in JavaScript, HTML, and CSS, on the LMS. They were of great help and allowed me to develop this site. Before uploading to github I put this site together using Visual Studio Code. I was able to use the Code Institute git template on github to organise my files, and to deploy the site. The idea behind this program came from the first example in the portfolio project guide. The image on the site is hosted on Pexel. 
 
+## Acknowledgments
+
+I would once again like to thank Amy my cohort coordinator, for checking in and making sure deadlines were met. I would also like to thank Laura, for giving me some inspiration and ideas around coding. 
+
+This site was created by me, Niall Sherlock, for my second portfolio project as a student at the Code Institute.
 
