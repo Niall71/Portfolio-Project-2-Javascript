@@ -38,5 +38,11 @@ In the contact me section I added a way to get in touch with me, both through em
 
 <img width="667" alt="Screenshot 2024-05-02 at 14 50 51" src="https://github.com/Niall71/Portfolio-Project-2-Javascript/assets/152639680/ea2188b6-14fc-493e-a529-b8548d1393c7">
 
+### Copyright
+
+As we learned from the html and css module, I included a copyright in footer section at the bottom of the page. 
+
+<img width="279" alt="Screenshot 2024-05-02 at 14 53 46" src="https://github.com/Niall71/Portfolio-Project-2-Javascript/assets/152639680/4c319ae4-70b1-425e-918f-798a2675f21a">
+
 
 
