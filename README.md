@@ -29,10 +29,14 @@ I coded the game in my Microsoft Visual Studio, relying heavily on the lessons l
 
 To add some color and visual interest to the site I included an image of people playing rock, paper, scissors. I took this image from pexels, where it is hosted, and it is coded to not obstruct any pertinent information. Additionally I added alt text to the image, so those using screen readers will know what is being displayed.
 
-### clickable external link
+### Clickable External Link
 
 In the contact me section I added a way to get in touch with me, both through email and through an external link. This clicable link will take users to facebook, the link is stylised to be the facebook logo. I added alt text to this link so users reading screen readers will know what is being displayed. I was able to add this stylised icon through the fontawesome library.
 
 <img width="397" alt="Screenshot 2024-05-02 at 14 49 41" src="https://github.com/Niall71/Portfolio-Project-2-Javascript/assets/152639680/83cf2372-9ecc-4ae6-aa51-01b57d5b6546">
+
+
+<img width="667" alt="Screenshot 2024-05-02 at 14 50 51" src="https://github.com/Niall71/Portfolio-Project-2-Javascript/assets/152639680/ea2188b6-14fc-493e-a529-b8548d1393c7">
+
 
 
