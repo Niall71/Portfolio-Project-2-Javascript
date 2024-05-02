@@ -31,4 +31,4 @@ To add some color and visual interest to the site I included an image of people 
 
 ### clickable external link
 
-In the contact me section I added a way to get in touch with me, both through email and through an external link. This clicable link will take users to facebook, the link is stylised to be the facebook logo. I added alt
+In the contact me section I added a way to get in touch with me, both through email and through an external link. This clicable link will take users to facebook, the link is stylised to be the facebook logo. I added alt text to this link so users reading screen readers will know what is being displayed. 
